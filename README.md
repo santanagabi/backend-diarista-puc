@@ -31,7 +31,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
     ```env
     DB_USER=santanagabi
-    DB_PASS=sua_senha
+    DB_PASS=senha123
     SECRET=12345
     ```
 
